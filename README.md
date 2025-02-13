@@ -40,7 +40,31 @@ The dataset **"Baltimore_City_Employee_Salaries"** contains:
 # Results and Challenges
 
 ## Results
-This study analyzed the **Baltimore City Employee Salaries** dataset to uncover trends in salary distribution, agency pay variations, and hiring patterns. Below are the key findings:
+This study analyzed the **Baltimore City Employee Salaries** dataset to uncover trends in salary distribution, agency pay variations, and hiring patterns. 
+
+## Visualisations 
+
+![](https://github.com/Paidigumal-Vivek/Analysis-of-Baltimore-City-Employee-Salaries/blob/main/Graph%201.png)
+
+![](https://github.com/Paidigumal-Vivek/Analysis-of-Baltimore-City-Employee-Salaries/blob/main/Graph%202.png)
+
+![](https://github.com/Paidigumal-Vivek/Analysis-of-Baltimore-City-Employee-Salaries/blob/main/Graph%203.png)
+
+![](https://github.com/Paidigumal-Vivek/Analysis-of-Baltimore-City-Employee-Salaries/blob/main/Graph%204.png)
+
+![](https://github.com/Paidigumal-Vivek/Analysis-of-Baltimore-City-Employee-Salaries/blob/main/Graph%205.png)
+
+![](https://github.com/Paidigumal-Vivek/Analysis-of-Baltimore-City-Employee-Salaries/blob/main/Plot%206.png)
+
+![](https://github.com/Paidigumal-Vivek/Analysis-of-Baltimore-City-Employee-Salaries/blob/main/Visualisation%207.png)
+
+![](https://github.com/Paidigumal-Vivek/Analysis-of-Baltimore-City-Employee-Salaries/blob/main/Visualisation%208.png)
+
+![](https://github.com/Paidigumal-Vivek/Analysis-of-Baltimore-City-Employee-Salaries/blob/main/Visualisation%209.png)
+
+![](https://github.com/Paidigumal-Vivek/Analysis-of-Baltimore-City-Employee-Salaries/blob/main/Visualisation%2010.png)
+
+
 
 ### Salary Distribution
 - The majority of employees have an annual salary within a specific range, with some outliers earning significantly higher.
@@ -81,7 +105,6 @@ While conducting this analysis, several challenges were encountered:
 - **Tableau’s multivariate analysis required significant optimization** for clear and insightful visualizations.
 - **Limited granularity in agency-level data** made it difficult to fully explain salary variations.
 
----
 
 ## Future Work
 - **More granular analysis of job roles and tenure** to better understand salary discrepancies.
